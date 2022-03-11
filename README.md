@@ -1,2 +1,2 @@
 # API-Todo
-API Rest baseada com ASP.NET, EF Core e SQLite. 
+API Rest feita com ASP.NET, EF Core e SQLite. 
